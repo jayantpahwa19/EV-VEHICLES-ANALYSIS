@@ -22,4 +22,5 @@ To explore the EV Vehicles Analysis dashboard:
 
 ## Project Overview
 This project is designed to assist stakeholders in the EV industry, including manufacturers, policymakers, and consumers, by providing a clear and comprehensive analysis of the electric vehicle market. The dashboard serves as an essential tool for identifying market needs, tracking performance metrics, and making informed decisions to support the transition to electric mobility.
+![image](https://github.com/user-attachments/assets/b2d9601b-fac6-440f-bd9e-d524a747de15)
 
